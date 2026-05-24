@@ -115,11 +115,12 @@ Git 有三个主要区域：
 | `git add <file>` | 把文件加到暂存区 | 一般用 `git add .` 全部加 |
 | `git commit -m "msg"` | 提交 | 消息写清楚，别写“update” |
 | `git push origin main` | 推送到远程 | 先 pull 再 push |
-| `git pull --rebase` | 拉取并变基 | 比普通 pull 历史干净 |
+| `git pull --rebase` | 拉取并合并 | 比普通 pull 历史干净 `--rebase`|
 | `git log ` | 看提交历史 | 了解项目的发展 |
 | `git diff` | 看具体改了啥 | 改代码忘了改哪里时用 |
 | `git checkout -b new_branch` | 创建并切换到新分支 | 做新功能时用 |
 | `git merge branch_name` | 合并分支 | 合并完可以删分支 |
+| `git branch` | 查看分支 | 了解当前所有分支:`-r` 列出远程分支 、`-a` 列出所有分支 、`-d` 删除本地分支 |
 
 ### 7. 实际操作：从零开始一个项目
 

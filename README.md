@@ -41,6 +41,7 @@
 | 07 | [操作系统/中间件](./docs/07_software_os_middleware/) | ROS2、FreeRTOS、Linux 常用命令 |整理中 |
 | 08 | [开发工具](./docs/08_software_dev_tools/) | Git、Docker、VS Code、CMake、Jupyter |整理中 |
 | 09 | [编程语言/库](./docs/09_software_languages_libs/) | Python 数据类、C++ STL、OpenCV、Eigen |整理中 |
+| 10 | [机械零件](./docs/10_mechanical_components/) | 3D 打印、标准件选型、CAD 软件使用 | 随缘 |
 
 ### 🔍 使用示例
 
