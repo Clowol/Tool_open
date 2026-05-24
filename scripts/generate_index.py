@@ -26,6 +26,7 @@ CATEGORY_DESC = {
     "07_software_os_middleware": "操作系统 / 中间件（ROS2、FreeRTOS、Linux）",
     "08_software_dev_tools": "开发工具（Git、Docker、VS Code、CMake）",
     "09_software_languages_libs": "编程语言 / 库（Python、C++ STL、OpenCV）",
+    "10_mechanical_components": "机械组件（弹簧、齿轮、轴承等）",
     "99_misc": "其他（接插件、线材、散热、外壳）",
 }
 
