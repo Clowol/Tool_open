@@ -1,6 +1,6 @@
 # 10 Mechanical Components
 
-
+> 机械组件（弹簧、齿轮、轴承等）
 
 ## 已收录条目
 

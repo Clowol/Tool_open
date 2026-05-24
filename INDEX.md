@@ -1,7 +1,7 @@
 # 知识库总索引
 
 > 此文件由脚本自动生成，列出所有已收录的硬件/软件条目。
-> 最后更新：2026-05-24 16:22:16
+> 最后更新：2026-05-24 16:27:03
 
 ## 分类目录
 
@@ -28,6 +28,7 @@
 - [Git 笔记](./08_software_dev_tools/git_notes.md)
 
 ### 10 Mechanical Components
+*机械组件（弹簧、齿轮、轴承等）*
 
 - [flat_spiral_spring_guide(平面涡卷弹簧)硬件指南](./10_mechanical_components/flat_spiral_spring_guide.md)
 - [机械加工方式与设计可制造性总纲（详细版）](./10_mechanical_components/machining_overview.md)
